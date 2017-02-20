@@ -1,7 +1,7 @@
 window.OneSignal = window.OneSignal || [];
 var initOptions = {
-  appId: "12634044-7970-4268-8513-c679c2c6cee5",
-  subdomainName: 'onesignal-demo',
+  appId: "d6929160-35b3-40a8-91ef-5a3a17168c93",
+  subdomainName: 'https://mjniuz.github.io',
   autoRegister: true,
   notifyButton: {
     enable: true
